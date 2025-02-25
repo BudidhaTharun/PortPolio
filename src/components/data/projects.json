@@ -1,0 +1,35 @@
+[
+  {
+    "key": 1,
+    "title": "EasyMed",
+    "imageSrc": "/assets/projects/EasyMed.png",
+    "description": "Doctor Appointment-Mern stack",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+}
+,
+  {
+    "key": 2,
+    "title": "CampusFix",
+    "imageSrc": "/assets/projects/CampusFix.png",
+    "description": "Student service portal.Developed with Mern Stack",
+    "demo": "https://campusfix.onrender.com/",
+    "source": "https://github.com/BudidhaTharun/CampusFix"
+  },
+  {
+    "key": 3,
+    "title": "Spotify Interface",
+    "imageSrc":"/assets/projects/Spotify.png",
+    "description": "HTML , CSS , JavaScript.",
+    "demo": "https://budidhatharun.github.io/Spotify-Interface/",
+    "source": "https://github.com/BudidhaTharun/Spotify-Interface"
+  },
+  {
+    "key": 4,
+    "title": "MessageKaro",
+    "imageSrc": "/assets/projects/MessageKaro.png",
+    "description": "Chat Application - React, NodeJS,ExpressJS,socket.io.",
+    "demo": "https://letsconnect1-frontend.onrender.com/",
+    "source": "https://github.com/BudidhaTharun/Connect"
+  }
+]
