@@ -31,7 +31,7 @@ const Home = () => {
           <h1 ref={typedRef}></h1>
 
           <a
-            href={pdf}
+            href="https://drive.google.com/file/d/1AE1iAog0NiFmXZyNPDJ2muoR-6UMmpNv/view?usp=sharing"
             download="Resume.pdf"
             className="btn btn-outline-warning my-3"
           >Download Resume
