@@ -32,7 +32,7 @@ const Home = () => {
 
           <a
             href="https://drive.google.com/file/d/1AE1iAog0NiFmXZyNPDJ2muoR-6UMmpNv/view?usp=sharing"
-            download="Resume.pdf"
+            download="https://drive.google.com/file/d/1AE1iAog0NiFmXZyNPDJ2muoR-6UMmpNv/view?usp=sharing"
             className="btn btn-outline-warning my-3"
           >Download Resume
           </a>
